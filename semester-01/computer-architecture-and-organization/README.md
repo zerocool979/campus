@@ -4,9 +4,9 @@
 This folder contains notes and assignments from the **Computer Architecture and Organization** course in Semester 1 of Informatics Engineering at Tazkia.
 
 ### 📂 Folder Structure
-- `Materi/` – Lecture summaries (binary, logic gates, CPU, etc.)
-- `Tugas/` – Assignments and exercises
-- `Ujian/` – Midterm or final exam reviews
+- `Material/` – Lecture summaries (binary, logic gates, CPU, etc.)
+- `task/` – Assignments and exercises
+- `exam/` – Midterm or final exam reviews
 
 ### 📝 Progress
 ✅ Structure created  
