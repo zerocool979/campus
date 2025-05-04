@@ -5,6 +5,7 @@ This folder contains notes and assignments from the **Computer Architecture and 
 
 ### 📂 Folder Structure
 - `material/` – Lecture summaries (binary, logic gates, CPU, etc.)
+- `Material/` – Lecture summaries (binary, logic gates, CPU, etc.)
 - `task/` – Assignments and exercises
 - `exam/` – Midterm or final exam reviews
 
