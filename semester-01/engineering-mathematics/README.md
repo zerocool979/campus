@@ -5,8 +5,6 @@ This folder stores materials and tasks from the **Engineering Mathematics** cour
 
 ### 📂 Folder Structure
 - `Materi/` – Lecture notes (calculus, vectors, matrices, etc.)
-- `Tugas/` – Weekly or project-based assignments
-- `Latihan/` – Practice exercises
 
 ### 📝 Progress
 ✅ Structure complete  
